@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "app.environment",
+    "type": "java.lang.String",
+    "description": "The environment name for the application ('dev'|'prod')."
+  },
+  {
+    "name": "omdb.api.url",
+    "type": "java.lang.String",
+    "description": "This is the URL of the OMDB API, a service that provides information on movies and TV shows."
+  }
+]}
